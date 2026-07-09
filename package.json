@@ -1,0 +1,11 @@
+{
+  "name": "2d-physics-engine",
+  "version": "1.0.0",
+  "description": "A from-scratch 2D rigid body physics engine with collision detection, impulse resolution, and a canvas demo.",
+  "type": "module",
+  "main": "src/engine.js",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
